@@ -14,7 +14,7 @@
   <a href="https://sahilballav.github.io/portfoliosb/">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/sahil-ballav">
+  <a href="https://www.linkedin.com/in/sahil-ballav-475ab7204/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sahilballav@gmail.com">
