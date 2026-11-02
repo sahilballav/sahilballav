@@ -2,29 +2,37 @@
   <i>🔄 Last dynamic refresh: <b>November 2026</b></i>
 </div>
 
-# 💫 Sahil Ballav
+<div align="center">
+  <i>“Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.”</i> <!-- Replace with your favorite tech quote -->
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Developer Working Animation" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Information+Technology+Engineer;Cloud-Native+%26+Backend+Developer;Building+Resilient+Microservices;AI+Integration+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=trinib@github:~%24+whoami;Information+Technology+Engineer;Cloud-Native+%26+Backend+Developer;Building+Resilient+Microservices" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://sahilballav.github.io/portfoliosb/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00&borderColor=00FF00" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/sahil-ballav">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&borderColor=00FF00" alt="LinkedIn"/>
   </a>
   <a href="mailto:sahilballav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&borderColor=00FF00" alt="Email"/>
   </a>
 </div>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 I am an Information Technology engineering student at KIIT University specializing in backend architecture, cloud orchestration, and full-stack development. My engineering philosophy revolves around building resilient, high-availability enterprise systems and seamlessly integrating Agentic AI capabilities into modern applications.
 
 * 🔭 **Currently Building:** OmniCart (Cloud-native e-commerce), Enterprise P2P Inventory Dashboards, and Kukurbazar.
@@ -40,7 +48,6 @@ I am an Information Technology engineering student at KIIT University specializi
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 **Frontend & Mobile**  
@@ -57,21 +64,13 @@ I am an Information Technology engineering student at KIIT University specializi
 
 ---
 
-### ⚡ Recent GitHub Activity
-<!--RECENT_ACTIVITY:start-->
-<!-- You can use a GitHub Action like 'jamesgeorge007/github-activity-readme' to automatically populate this section with your latest commits and pushes -->
-* 🚀 Pushed code to **sahil-ballav/OmniCart**
-* ✨ Created repository **sahil-ballav/Enterprise-P2P-Dashboard**
-* 🛠️ Opened pull request in **sahil-ballav/Kukurbazar**
-<!--RECENT_ACTIVITY:end-->
-
----
-
-### 📊 GitHub Activity
+<div align="center">
+  <h2> ⚡ S T A T S ⚡ </h2>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sahilballav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahilballav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sahilballav&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahilballav&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
 <br/>
